@@ -1,17 +1,17 @@
 #HIDIVE Downloader NX configuration v3
 bin:
-  ffmpeg: ${__dirname}/bin/ffmpeg
-  mkvmerge: ${__dirname}/bin/mkvmerge
+  ffmpeg: /usr/bin/ffmpeg
+  mkvmerge: /usr/bin/mkvmerge
 dir:
-  content: ${__dirname}/videos/
+  content: /content/drive/Shareddrives/HVEC/Funimation/
   trash: ${__dirname}/videos/_trash/
 cli:
   releaseGroup: HIDIVE
   # assTitleTag: HIDIVE
   # muxTitleTag: HIDIVE
   fileSuffix: SIZEp
-  videoQuality: 720p
-  dubLanguage: eng
+  videoQuality: 1080p
+  dubLanguage: jap
   # mp4mux: false
   # muxSubs: false
   # capsSubs: false
