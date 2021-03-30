@@ -3,7 +3,7 @@ bin:
   ffmpeg: ./usr/bin/ffmpeg
   mkvmerge: ./usr/bin/mkvmerge
 dir:
-  content: ./content/drive/Shareddrives/HVEC/HIDIVE/
+  content: /content/drive/Shareddrives/HVEC/HIDIVE/
   trash: ./videos/_trash/
 cli:
   releaseGroup: HIDIVE
