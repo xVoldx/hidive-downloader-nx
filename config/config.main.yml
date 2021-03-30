@@ -1,10 +1,10 @@
 #HIDIVE Downloader NX configuration v3
 bin:
-  ffmpeg: /usr/bin/ffmpeg
-  mkvmerge: /usr/bin/mkvmerge
+  ffmpeg: ./usr/bin/ffmpeg
+  mkvmerge: ./usr/bin/mkvmerge
 dir:
-  content: /content/drive/Shareddrives/HVEC/HIDIVE/
-  trash: ${__dirname}/videos/_trash/
+  content: ./content/drive/Shareddrives/HVEC/HIDIVE/
+  trash: ./videos/_trash/
 cli:
   releaseGroup: HIDIVE
   # assTitleTag: HIDIVE
