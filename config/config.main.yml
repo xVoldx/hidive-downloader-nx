@@ -11,7 +11,7 @@ cli:
   # muxTitleTag: HIDIVE
   fileSuffix: SIZEp
   videoQuality: 1080p
-  dubLanguage: jap
+  dubLanguage: jpn
   # mp4mux: false
   # muxSubs: false
   # capsSubs: false
